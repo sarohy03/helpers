@@ -1,0 +1,7 @@
+.env
+CONTEXT_ONLY.py
+1.txt
+2.txt
+Embeddings.py
+extracted_text.txt
+reading_data.py
